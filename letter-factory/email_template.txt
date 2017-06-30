@@ -1,6 +1,6 @@
 Hi ${COMPANY_NAME},
 
-I heard your ${COMPANY_TYPE} was hiring a Frontend Developer in ${LOCATION} through ${DISCOVERY_METHOD}. I'm interested in using my technical skills for ${COMPANY_PURPOSE}, and I believe my knowledge of ${RELEVANT_TECHNOLOGIES} would be an excellent fit towards that purpose at ${COMPANY_NAME}.
+I heard your ${COMPANY_TYPE} was hiring a ${JOB_TITLE} in ${LOCATION} through ${DISCOVERY_METHOD}. I'm interested in using my technical skills for ${COMPANY_PURPOSE}, and I believe my knowledge of ${RELEVANT_TECHNOLOGIES} would be an excellent fit towards that purpose at ${COMPANY_NAME}.
 
 ​For examples, please check out​ my personal projects below. The Debt Payment Calculator integrates D3.js into React for snappy visualization. The MTA Dashboard leverages a hand-rolled scraping script on a Node backend to compile information from up to 68 different webpages into a centralized location.
 

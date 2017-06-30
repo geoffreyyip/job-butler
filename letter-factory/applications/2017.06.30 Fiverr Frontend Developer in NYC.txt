@@ -1,0 +1,55 @@
+Hi Fiverr,
+
+I heard your freelancer platform was hiring a Frontend Developer in NYC through Indeed. I'm interested in using my technical skills for boosting entrepreneurship in the marketplace, and I believe my knowledge of HTML5, CSS3, SCSS, jQuery, Javascript, React, Redux, Node and associated web tooling would be an excellent fit towards that purpose at Fiverr.
+
+​For examples, please check out​ my personal projects. My Debt Payment Calculator (at https://geoffreyyip.github.io/dancing-cactus/) integrates D3.js into React for snappy visualization. My MTA Dashboard (at https://safe-fjord-88611.herokuapp.com/) leverages a hand-rolled scraping script on a Node backend to compile information from up to 68 different webpages into a centralized location. Repo links and implementation details can be found in my resume.
+
+In addition to my personal projects, I am an active participant in my local Javascript meetups and a volunteer mentor for NodeSchool events. As a self taught engineer, I strive to improve myself every day, because there is always something new to learn.
+
+I would love to set up a quick chat over the phone. I'm usually available on weekdays between 11am - 5pm. If you are interested, please send over a few open times, and we can coordinate from there.
+
+Thanks,
+Geoffrey Yip
+
+_____________________
+
+Hi Fiverr,
+
+I heard your freelancer platform was hiring a Frontend Developer in NYC through Indeed. I'm interested in using my technical skills for boosting entrepreneurship in the marketplace, and I believe my knowledge of HTML5, CSS3, SCSS, jQuery, Javascript, React, Redux, Node and associated web tooling would be an excellent fit towards that purpose at Fiverr.
+
+​For examples, please check out​ my personal projects below. The Debt Payment Calculator integrates D3.js into React for snappy visualization. The MTA Dashboard leverages a hand-rolled scraping script on a Node backend to compile information from up to 68 different webpages into a centralized location.
+
+MTA Dashboard: [Demo](https://safe-fjord-88611.herokuapp.com/) | [Repo](https://github.com/geoffreyyip/mta-dashboard)
+Debt Payment Calculator: [Demo](https://geoffreyyip.github.io/dancing-cactus/) | [Repo](https://github.com/geoffreyyip/dancing-cactus)
+
+In addition to my personal projects, I am an active participant in my local Javascript meetups and a volunteer mentor for NodeSchool events. As a self taught engineer, I strive to improve myself every day, because there is always something new to learn.
+
+I would love to set up a quick chat over the phone. I'm usually available on weekdays between 11am - 5pm. If you are interested, please send over a few open times, and we can coordinate from there.
+
+Thanks,
+Geoffrey Yip
+
+_____________________
+
+ABOUT THIS POSITION
+Fiverr is looking for a front-end developer to join our Category Experience team in NYC. The team's focus is on customizing the buying experience for different categories within the Fiverr Marketplace and creating unique searching, browsing & interaction experiences throughout our entire platform.
+Are you design-minded, visually-driven with an eye for clean code and an appetite for working with the latest web technologies? If so, the Fiverr FE team might just be the place for you.
+
+RESPONSIBILITIES:
+Work in small groups with other talented thinkers & doers to create visionary UI/UX products and integrate them within the Fiverr Marketplace.
+Brainstorm on innovative solutions to improve the different category experiences & flows across Fiverr's platform.
+Implement new front-end tools & libraries which are used across the Fiverr codebase.
+REQUIREMENTS:
+2+ years of professional experience with web application development.
+Strong knowledge of HTML5, CSS3/SCSS, jQuery, OOP Javascript.
+Experience with componentization, MVC and/or common front-end frameworks.
+Experience with ReactJS and Redux is an advantage.
+Familiarity with back-end technologies like Ruby on Rails and Node is an advantage.
+You take pride in your work & ability and aren't satisfied till you reach that pixel-perfect look.
+You love investigating stuff, reading and learning.
+You're ready to work hard while doing amazing stuff.
+PERKS:
+When you join Fiverr, you'll become an important member of one of the hottest startups in the world.
+From day one you'll be challenged to take risks, think big, and make an impact while getting lots of love and support from the team. A few of the perks you'll receive include: competitive salary, an awesome work environment with a company that loves its employees, and the eligibility to participate in Fiverr's stock option plan.
+_____________________
+
